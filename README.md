@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm an aspiring statistician working on my degree!
+- I have experience with R, Python, SQL, Linux, VBA, and Git
+
 <!--
 **sneslen/sneslen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
